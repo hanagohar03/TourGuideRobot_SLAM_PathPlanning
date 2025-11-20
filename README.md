@@ -2,7 +2,7 @@ Update 20.11.2025
 
 Moved old maps to Archive folder, uploaded new maps and world. the pgm had to be zipped due to size limit on github.
 
-
+------------------------------------------------------------------------------------------------------------------------
 
 The folder VM contains the ressources used to run a simulation in gazebo/rviz.
 
