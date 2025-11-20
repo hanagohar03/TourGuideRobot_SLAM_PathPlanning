@@ -1,3 +1,6 @@
+Update 20.11.2025
+Moved old maps to Archive folder, uploaded new maps and world. the pgm had to be zipped due to size limit on github.
+
 The folder VM contains the ressources used to run a simulation in gazebo/rviz.
 
 `GIU_map2.pgm` is a modified version of the original GUI map, the wall were just drawn thicker.
@@ -31,4 +34,5 @@ If you want to control the robots, you need the teleop package, installed via
 
 then run
 `ros2 run turtlebot3_teleop teleop_keyboard`
-in a third terminal
+in a third terminal.
+
